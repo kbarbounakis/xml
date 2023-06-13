@@ -2,6 +2,7 @@
 spec
 karma.conf.js
 test-context.js
+jsconfig.json
 
 # build
 rollup.config.js

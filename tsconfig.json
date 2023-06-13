@@ -1,8 +1,17 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "noImplicitAny": true,
     "noImplicitOverride": true,
     "noImplicitReturns": true,
-    "noImplicitThis": true
+    "noImplicitThis": true,
+    "paths": {
+      "@themost/xml/serialization": [
+        "serialization/src/index"
+      ],
+      "@themost/xml": [
+        "src/index"
+      ]
+    }
   }
 }

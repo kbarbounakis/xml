@@ -1,0 +1,7 @@
+class XmlSerializer {
+
+}
+
+export {
+    XmlSerializer
+}

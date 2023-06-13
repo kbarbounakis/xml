@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "experimentalDecorators": true,
+        "paths": {
+            "@themost/xml/serialization": [
+                "serialization/src/index"
+            ],
+            "@themost/xml": [
+                "src/index"
+            ]
+        }
+    }
+}
